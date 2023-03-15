@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: mediumslateblue;
-  color: white;
+  background-color: mediumvioletred;
+  color: moccasin;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
 }
@@ -34,7 +34,7 @@ form button {
 }
 
 form button {
-  color: rgb(255, 200, 0);
+  color: red;
   background: white;
   cursor: pointer;
   transition: all 0.3 ease;
@@ -43,7 +43,7 @@ form button {
 
 form button:hover {
   color: white;
-  background: rgb(255, 200, 0);
+  background: red;
 }
 
 .fa-plus-circle {
@@ -89,7 +89,7 @@ form button:hover {
 }
 
 .complete-btn {
-  background: rgb(255, 200, 0);
+  background: red;
 }
 
 .trash-btn {
